@@ -5,7 +5,13 @@ coverage.json
 typechain
 typechain-types
 
-#Hardhat files
+# IDE
+.idea/
+venv/
+__pycache__/
+.pytest_cache/
+
+# Hardhat files
 cache
 artifacts
 .openzeppelin
