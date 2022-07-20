@@ -1,5 +1,14 @@
 # eth_smart_contracts
 
+### todo:
+- metamask/infura только под vpn если из рф
+- IDE:  online https://remix.ethereum.org/ или Solidity plugin to Jetbrains/VScode
+- install metamask extension to chrome 
+- erc20 contracts wizard: https://docs.openzeppelin.com/contracts/4.x/wizard
+- деплой через https://hardhat.org/ или https://trufflesuite.com/ 
+- своя rpc node для тестовых сетей = https://infura.io/
+
+
 ### hardhat
 ```shell
 cd project_folder
